@@ -3,7 +3,7 @@ class Report_1{
     public static void main(String[] args){
         //2-4. 다음 중 변수를 잘못 초기화 한 것은?
         //byte b = 256; -128~127 범위 초과
-        //char c = '';
+        char c = '';
         //char answer = 'no'; 단 하나의 문자만 저장가능
         //float f = 3.14 f가 없음
         double d = 1.4e3f;
